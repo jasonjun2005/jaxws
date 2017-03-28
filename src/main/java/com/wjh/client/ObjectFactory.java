@@ -37,11 +37,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link SayHello }
+     * Create an instance of {@link SumResponse }
      * 
      */
-    public SayHello createSayHello() {
-        return new SayHello();
+    public SumResponse createSumResponse() {
+        return new SumResponse();
     }
 
     /**
@@ -61,11 +61,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link SumResponse }
+     * Create an instance of {@link SayHello }
      * 
      */
-    public SumResponse createSumResponse() {
-        return new SumResponse();
+    public SayHello createSayHello() {
+        return new SayHello();
     }
 
     /**

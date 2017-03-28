@@ -2,6 +2,6 @@
 <endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime"
 	version="2.0">
 	
-	<endpoint name="Hello" implementation="com.bonc.service.Hello" url-pattern="/HelloService" />
+	<endpoint name="Hello" implementation="com.wjh.service.Hello" url-pattern="/HelloService" />
 	<endpoint name="SayHiService" implementation="com.ws.service.SayHiServiceImpl" url-pattern="/service/sayHi" />
 </endpoints>

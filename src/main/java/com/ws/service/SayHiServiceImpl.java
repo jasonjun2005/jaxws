@@ -4,7 +4,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import javax.jws.WebService;
-import javax.jws.soap.SOAPBinding;
 
 
 @WebService(endpointInterface = "com.ws.service.SayHiService")
