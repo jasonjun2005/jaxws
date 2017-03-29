@@ -1,4 +1,4 @@
-jaxws 入门  运行环境 jdk7
+Java WebService 入门  运行环境 jdk7
 
 1 执行ServerMain服务端
 2.生成服务端java code
